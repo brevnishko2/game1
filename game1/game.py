@@ -6,7 +6,7 @@ from mobs import *
 
 WIDTH = 600
 HEIGHT = 600
-FPS = 60
+FPS = 120
 
 # Задаем цвета
 WHITE = (255, 255, 255)
