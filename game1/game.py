@@ -44,8 +44,6 @@ exp_snd = game.mixer.Sound(path.join(snd_folder, "expl6.wav"))
 game.mixer.music.load(path.join(snd_folder, "music.mp3"))
 game.mixer.music.set_volume(0.01)
 
-
-
 font_name = game.font.match_font("arial")
 
 
